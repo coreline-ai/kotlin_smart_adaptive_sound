@@ -297,7 +297,7 @@ graph TD
 
 ## 8. 📄 라이선스
 
-이 프로젝트는 MIT 라이선스에 따라 라이선스가 부여됩니다. 자세한 내용은 [LICENSE](LICENSE) 파일을 참조하십시오.
+본 프로젝트는 **GNU Affero General Public License v3.0 (AGPL-3.0)**에 [LICENSE](LICENSE) 따라 배포됩니다.
 
 ---
 *Created by Hwan for the Smart Adaptive EQ Project.*
