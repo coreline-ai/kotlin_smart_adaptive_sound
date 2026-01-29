@@ -1,6 +1,12 @@
 # 🎧 스마트 적응형 EQ 뮤직 플레이어 (EnviroTune)
 
-
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/be8d7cd7-2e0a-4c93-a875-ad9eca247055" width="160" />
+  <img src="https://github.com/user-attachments/assets/14fa8cfa-7114-45bc-9200-41cb8a792773" width="160" />
+  <img src="https://github.com/user-attachments/assets/e39c2e8b-1594-4d04-a573-7fe192762b0d" width="160" />
+  <img src="https://github.com/user-attachments/assets/a96bbb8c-3565-448c-86e0-4d6d323b39c8" width="160" />
+  <img src="https://github.com/user-attachments/assets/66e845f9-3600-41db-8a9b-2501984fee50" width="160" />
+</p>
 
 **EnviroTune (Intelligent Ambient Noise Compensation System)**은 주변 소음을 분석하여 시끄러운 환경에서도 조용한 방에서 음악을 듣는 것과 같은 **'청감적 밸런스(Perceptual Consistency)'**를 유지해 주는 고급 안드로이드 뮤직 플레이어입니다.
 
